@@ -43,19 +43,19 @@ The code begins with the standard HTML structure. It defines the document type, 
 
 The <body> section contains the main content of the page.
 
-Page Title and Heading
+**Page Title and Heading**
   
-The <h1> element displays the title of the page, which is "Mongodb CRUD Example".</h1>
+The element displays the title of the page, which is "Mongodb CRUD Example".
 
-Create Operation
+**Create Operation**
   
 The code checks if the name variable is present. If it is, the page displays an edit form. Otherwise, it displays a create form.
 
-Edit Form
+**Edit Form**
   
 If the name variable is present, the code displays an edit form. The form's add task attribute specifies the endpoint to handle the form submission for updating a book with the given name.
 
-Create Form
+**Create Form**
   
 If the name variable is not present, the code displays a create form. The form's add task attribute specifies the endpoint to handle the form submission for creating a new task.
   
