@@ -45,21 +45,19 @@ The <body> section contains the main content of the page.
 
 **Page Title and Heading**
   
-The <h1> element displays the title of the page, which is "Mongodb CRUD App".
+The <h1> element displays the title of the page, which is "Mongodb CRUD Example".
 
 **Create Operation**
   
-The code checks if the edit_id variable is present. If it is, the page displays an edit form. Otherwise, it displays a create form.
+The code checks if the name variable is present. If it is, the page displays an edit form. Otherwise, it displays a create form.
 
 **Edit Form**
   
-If the edit_id variable is present, the code displays an edit form. The form's action attribute specifies the endpoint to handle the form submission for updating a book with the given edit_id.
-
-The form contains two input fields: title and author. The values of these input fields are pre-populated with the existing book's title and author (edit_book.title and edit_book.author respectively).
+If the name variable is present, the code displays an edit form. The form's add task attribute specifies the endpoint to handle the form submission for updating a book with the given name.
 
 **Create Form**
   
-If the edit_id variable is not present, the code displays a create form. The form's action attribute specifies the endpoint to handle the form submission for creating a new operations.
+If the name variable is not present, the code displays a create form. The form's add task attribute specifies the endpoint to handle the form submission for creating a new task.
   
  # Conclusion
   
