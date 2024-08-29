@@ -62,7 +62,11 @@ If the name variable is not present, the code displays a create form. The form's
  # Conclusion
   
   This code snippet demonstrates a basic web application that allows users to perform CRUD operations (Create, Read, Update, Delete) on a collection of online shopping stored in a MongoDB database. It provides forms for creating new things and editing existing ones, as well as displaying a list of books with options to edit or delete each things.
-  
-  
+
+https://github.com/user-attachments/assets/4e6be343-1748-403a-9cc1-7f981b8605e2
+
+
+
+
 
 
